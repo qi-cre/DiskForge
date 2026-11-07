@@ -6,6 +6,8 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Textual](https://img.shields.io/badge/TUI-Textual-purple.svg)](https://github.com/Textualize/textual)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey.svg)]()
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# 贡献代码即代表同意以 GPL-3.0 协议发布
 
 ## ✨ 核心特性
 
@@ -102,4 +104,7 @@ UI 驱动：Textual
 
 灵感来源：h2testw, F3
 
-如果这个工具帮你揪出了一个“扩容盘”，或者帮你测出了设备的真实底速，欢迎给个 ⭐️ Star！
+如果这个工具帮你揪出了一个虚标U盘或扩容盘，或者帮你测出了设备的真实速度，欢迎给个 ⭐️ Star！
+🤝 贡献指南
+欢迎提交 Issue 或 Pull Request！
+贡献代码即代表同意以 GPL-3.0 协议发布。
