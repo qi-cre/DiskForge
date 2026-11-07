@@ -9,6 +9,7 @@ description = "DiskForge — 磁盘填充 / 写入速度 / 真实容量测试工
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = ["textual>=0.40"]
+license = { text = "GPL-3.0-only" }
 
 [project.scripts]
 diskforge = "diskforge.__main__:main"
