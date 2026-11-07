@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "diskforge"
+version = "0.1.0"
+description = "DiskForge — 磁盘填充 / 写入速度 / 真实容量测试工具"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["textual>=0.40"]
+
+[project.scripts]
+diskforge = "diskforge.__main__:main"
+dforge = "diskforge.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["diskforge*"]
